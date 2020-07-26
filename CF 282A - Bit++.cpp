@@ -1,5 +1,5 @@
 //           ––=‹‹BISMILLAHITR RAHMANIR RAHIM››=––
-//  Problem name: CF 118A - String Task
+//  Problem name: CF 282A - Bit++
 //  Lang: C++
 //  ©: _Shakib Hossen Shanto   _ CSE Dept__Begum Rokeya University,Rangpur
 
